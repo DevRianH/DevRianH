@@ -14,6 +14,6 @@ Backend: ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjd
 
 ### 🌐 Redes Sociais
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rianezequias)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rianezequias/)
 [![Instagram](https://img.shields.io/badge/Instagram-E3205F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__hrian/)
 
