@@ -8,7 +8,7 @@ Sou o Rian, atualmente estou estagiando na área de desenvolvimento de software 
 
 ### 🖥️ Tecnologias & Estudos
 
-Backend: ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+Backend: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java">
 
 <hr style="height: 3px; background-color: gray; border: none;">
 
