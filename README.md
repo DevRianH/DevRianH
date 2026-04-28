@@ -1,7 +1,7 @@
 
 ## "Olá Mundo" 👋
 
-Sou o Rian, atualmente estou estagiando na área de desenvolvimento de software e estudando Análise e Desenvolvimento de Sistema pela [Descomplica](https://descomplica.com.br/faculdade/b/).
+Sou o Rian, atualmente estou estagiando na área de desenvolvimento de software e estudando Engenharia de Software pela [UniCesumar](https://www.unicesumar.edu.br/).
 
 
 <hr style="height: 3px; background-color: gray; border: none;">
