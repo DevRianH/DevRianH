@@ -1,7 +1,7 @@
 
 ## "Olá Mundo" 👋
 
-Sou o Rian, atualmente estou estagiando na área de desenvolvimento de software e estudando Engenharia de Software pela [UniCesumar](https://www.unicesumar.edu.br/).
+Sou o Rian, atualmente trabalho como desenvolvedor de software e estudando Engenharia de Software pela [UniCesumar](https://www.unicesumar.edu.br/).
 
 
 <hr style="height: 3px; background-color: gray; border: none;">
